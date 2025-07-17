@@ -1,5 +1,5 @@
 # deloitte-virtual-internship
-cyber security
+🔐 cyber security
 
 A big news publication has revealed sensitive private information about Daikibo Industrials' – a production problem has caused their assembly lines to stop, threatening the smooth operation of supply chains relying on Daikibo’s products. The client suspects the security of their new status board may have been breached.
 
